@@ -1,0 +1,5 @@
+# ninja log v6
+4	404	7580901824179848	build.ninja	863d9f66932e1d3f
+9	1109	7580406958729404	CMakeFiles/HangManTrial.dir/main.cpp.obj	4240b663aac372e3
+17	962	7580406958819389	CMakeFiles/HangManTrial.dir/hangman_functions.cpp.obj	5a4f5b0479e3f657
+1109	1278	7580406969733439	HangManTrial.exe	f001a2d5f58e799f
