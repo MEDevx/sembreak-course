@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.30)
+project(TheBasics)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(MainProgram main.cpp)
+add_executable(ConstProgram const.cpp)
+add_executable(TypedefProgram typedef.cpp)
+add_executable(ArithmeticProgram Arithmetic.cpp)
+add_executable(TypeConversionProgram typeconvert.cpp)
+add_executable(UserInputProgram userinput.cpp)
+add_executable(MathfuncsProgram mathfunctions.cpp)
+add_executable(HypotenuseCalcProgram hypotenuseCalculator.cpp)
+add_executable(IfProgram If.cpp)
+add_executable(switchProgram switches.cpp)
+add_executable(consoleProgram consolecalc.cpp)
+add_executable(ternaryProgram ternary.cpp)
+add_executable(logicProgram logicaloperators.cpp)
+add_executable(TempconversionProgram TempConversion.cpp)
+add_executable(stringmethodsProgram StringMethods.cpp)
+
